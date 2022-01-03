@@ -1,5 +1,5 @@
-# OSBES v0.7.5
-Open Source Bedrock Edition Shader  
+# Open Source Shader MCPE
+Open Source POCKET Edition Shader  
 
 **------------Everyone who will contribute will listed as a developer!-----------**
 
